@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-market-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "socket.io-client": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zebpay/nodejs-market-websocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zebpay/nodejs-market-websocket/issues"
+  },
+  "homepage": "https://github.com/zebpay/nodejs-market-websocket#readme"
+}
